@@ -1,13 +1,8 @@
 {
   "name": "mean-course",
   "version": "0.0.0",
+  "main": "server.js",
   "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e",
     "start:server": "nodemon server.js"
   },
   "private": true,
